@@ -1,5 +1,5 @@
 # compadre
-
+![logo](public/img/icons/android-chrome-192x192.png)
 ## Project setup
 ```
 npm install

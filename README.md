@@ -11,7 +11,8 @@ and datasets, we illustrate how this approach fosters (1) evaluating dimensional
   author={Cutura, Rene and Aupetit, Micha{\"e}l and Fekete, Jean-Daniel and Sedlmair, Michael},
   booktitle={AVI'20-International Conference on Advanced Visual Interfaces},
   year={2020}
-}```
+}
+```
 
 <br />
 

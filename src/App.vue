@@ -78,9 +78,12 @@
         <appearance-dialog />
         <v-btn 
           :disabled="loading != null"
-          icon 
+            icon
           @click="theme = !theme">
           <v-icon>mdi-invert-colors</v-icon>
+        </v-btn>
+        <v-btn icon href="https://github.com/saehm/compadre">
+            <v-icon>mdi-github</v-icon> 
         </v-btn>
         
       </v-toolbar-items>
